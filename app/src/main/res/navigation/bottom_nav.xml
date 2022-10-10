@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/bottom_nav"
+    app:startDestination="@id/menu_take_order">
+
+    <fragment
+        android:id="@+id/menu_take_order"
+        android:name="com.ketchupzzz.dailygrindexpressdriver.view.bottomnav.TakeOrderFragment"
+        android:label="fragment_take_order"
+        tools:layout="@layout/fragment_take_order" />
+    <fragment
+        android:id="@+id/menu_history"
+        android:name="com.ketchupzzz.dailygrindexpressdriver.view.bottomnav.HistoryFragment"
+        android:label="fragment_history"
+        tools:layout="@layout/fragment_history" />
+    <fragment
+        android:id="@+id/menu_wallet"
+        android:name="com.ketchupzzz.dailygrindexpressdriver.view.bottomnav.WalletFragment"
+        android:label="fragment_wallet"
+        tools:layout="@layout/fragment_wallet" />
+    <fragment
+        android:id="@+id/menu_profile"
+        android:name="com.ketchupzzz.dailygrindexpressdriver.view.bottomnav.ProfileFragment"
+        android:label="fragment_profile"
+        tools:layout="@layout/fragment_profile" />
+</navigation>

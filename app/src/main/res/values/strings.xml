@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Daily Grind Express Driver</string>
+    <string name="take_order">Take Order</string>
+    <string name="history">History</string>
+    <string name="wallet">Wallet</string>
+    <string name="profile">Profile</string>
+    <string name="asap">Asap</string>
+    <string name="caloocan_city_metro_manila_4453">Caloocan City, Metro Manila 4453</string>
+    <string name="_27_d_florencia_st_12th_avenue_west_grace_park">27 D Florencia St. 12th Avenue, West Grace Park</string>
+    <string name="p_50_00">P 50.00</string>
+    <string name="cash_on_delivery">Cash on Delivery</string>
+    <string name="order_complete">Order Complete</string>
+    <string name="login_with_google">Login with Google</string>
+    <string name="total">Total</string>
+    <string name="your_income">Your Income</string>
+    <string name="comment_address_1">Comment (Address 1):</string>
+    <string name="comment">Comment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="available">Available</string>
+</resources>
